@@ -1,0 +1,2 @@
+This part is to improve the use of emacs, and to learn, manage and run the commands of emacs. 
+It is highly important to learn and use them, for example: how to open and save files, how to undo, how to search forward and backward. 
